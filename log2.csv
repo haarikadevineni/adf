@@ -1,0 +1,7 @@
+Timestamp,LogLevel,Message,Service
+26-03-25 10:15,INFO,Service started successfully,AuthService
+26-03-25 10:16,ERROR,Failed to connect to database,OrderService
+26-03-25 10:17,WARN,High memory usage detected,PaymentService
+26-03-25 10:18,ERROR,Timeout while processing request,OrderService
+26-03-25 10:19,INFO,User login successful,AuthService
+26-03-25 10:20,ERROR,Invalid API request received,InventoryService
